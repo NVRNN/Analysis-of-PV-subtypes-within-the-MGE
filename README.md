@@ -1,4 +1,4 @@
-#These text files are a combination of functional code and notes used to conduct analysis
+#These RStudio files are a combination of functional code and notes used to conduct analysis
 #These documents are not intended to be run, as currently presented
 
 During the course of my project several groups explored the use of scRNA-seq to analyse gene
