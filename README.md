@@ -41,3 +41,39 @@ eminences and within individual spatial subdomains of the ganglionic eminences (
 E14.5. However, in contrast to Mi et al (2018) they were unable to find any interneuron
 precursor subtypes. Within this chapter, I utilised existing public scRNA-seq datasets in 
 combination with experimental methods to explore a potential role for 14-3-3ζ in specific subdomains within the MGE during neurogenesis.
+
+Mi, D, Li, Z, Lim, L, Li, M, Moissidis, M, Yang, Y, Gao, T, Hu, TX, Pratt, T, Price, DJ, Sestan, N
+& Marín, O 2018, 'Early emergence of cortical interneuron diversity in the mouse embryo',
+Science, vol. 360, no. 6384, Apr 6, pp. 81-85.
+
+Chen, G, Ning, B & Shi, T 2019, 'Single-Cell RNA-Seq Technologies and Related
+Computational Data Analysis', Frontiers in Genetics, vol. 10, 2019-April-05.
+
+Tang, F, Barbacioru, C, Wang, Y, Nordman, E, Lee, C, Xu, N, Wang, X, Bodeau, J, Tuch, BB,
+Siddiqui, A, Lao, K & Surani, MA 2009, 'mRNA-Seq whole-transcriptome analysis of a single
+cell', Nature Methods, vol. 6, no. 5, 2009/05/01, pp. 377-82.
+
+Picelli, S 2017, 'Single-cell RNA-sequencing: The future of genome biology is now', RNA Biol,
+vol. 14, no. 5, May 4, pp. 637-50.
+
+Haque, A, Engel, J, Teichmann, SA & Lönnberg, T 2017, 'A practical guide to single-cell RNAsequencing for biomedical research and clinical applications', Genome Medicine, vol. 9, no. 1,
+2017/08/18, p. 75.
+
+Satija, R, Farrell, JA, Gennert, D, Schier, AF & Regev, A 2015, 'Spatial reconstruction of singlecell gene expression data', Nature Biotechnology, vol. 33, no. 5, 2015/05/01, pp. 495-502.
+
+Stuart, T, Butler, A, Hoffman, P, Hafemeister, C, Papalexi, E, Mauck, WM, 3rd, Hao, Y,
+Stoeckius, M, Smibert, P & Satija, R 2019, 'Comprehensive Integration of Single-Cell Data',
+Cell, vol. 177, no. 7, Jun 13, pp. 1888-902.e21.
+
+Andrews, TS & Hemberg, M 2018, 'Identifying cell populations with scRNASeq', Molecular
+Aspects of Medicine, vol. 59, 2018/02/01/, pp. 114-22.
+
+Su-Feher, L, Rubin, AN, Silberberg, SN, Catta-Preta, R, Lim, KJ, Ypsilanti, AR, Zdilar, I,
+McGinnis, CS, McKinsey, GL, Rubino, TE, Hawrylycz, MJ, Thompson, C, Gartner, ZJ, Puelles,
+L, Zeng, H, Rubenstein, JLR & Nord, AS 2022, 'Single cell enhancer activity distinguishes
+GABAergic and cholinergic lineages in embryonic mouse basal ganglia', Proceedings of the
+National Academy of Sciences, vol. 119, no. 15, p. e2108760119.
+
+Lee, DR, Rhodes, C, Mitra, A, Zhang, Y, Maric, D, Dale, RK & Petros, TJ 2022, 'Transcriptional
+heterogeneity of ventricular zone cells in the ganglionic eminences of the mouse forebrain', Elife,
+vol. 11, Feb 17.
