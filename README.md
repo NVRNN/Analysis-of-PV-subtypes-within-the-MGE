@@ -1,3 +1,6 @@
+#These text files are a combination of functional code and notes used to conduct analysis
+#These documents are not intended to be run, as currently presented
+
 During the course of my project several groups explored the use of scRNA-seq to analyse gene
 expression within the MGE of embryonic mice, providing new insights into the heterogeneity
 within this region and to the processes controlling neurogenesis (Mi et al. 2018) (Lee et al.
